@@ -1,4 +1,4 @@
-<h2>TeachPeer Plan</h2>
+<h2>TeachPeer Requirements</h2>
 
 <p>TeachPeer is a learning platform focused on making learning fun and effective. It does this by recording measurements of learning time and progress. It provides APIs to read and record student specific time series data pertaining to learning experiences and learning assessments. It also calculates student specific credits calculated using a combination of learning time and assessment performance. It uses this data to measure the relationship between learning experiences and learning outcomes. It also gives students a sense of progress by keeping track of sustained effort and performance. It uses that data to help drive learning effectiveness.</p>
 
