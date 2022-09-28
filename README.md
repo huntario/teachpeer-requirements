@@ -4,7 +4,7 @@
 
 it has ...
 - [ ] users called STUDENTS
-- [ ] data-times when STUDENTS experiece LEARNING-ITEMS, called EXPERINECES
+- [ ] date-times when STUDENTS experiece LEARNING-ITEMS, called EXPERINECES
 - [ ] associated facts called LEARNING-ITEMS (think n-sided flashcards)
   - [ ] LearningItems examples:
   - [ ] 心 - xīn - 'zh/xin1.mp3' - heart
