@@ -19,8 +19,11 @@ it has ...
 
 it can ...
 - [ ] authenticate Students via password
-- [ ] expose native functions and data via gRPC
+- [ ] expose native data read/write via gRPC
 - [ ] expose native data read/write via GraphQL
 - [ ] expose native data read/write via REST APIs
 - [ ] transfer COINS between STUDENTS
 - [ ] credit STUDENTS with COINS for EXPERIENCES and ASSESSMENTS
+- [ ] record EXPERIENCES and ASSESSMENTS for STUDENTS
+- [ ] correlate EXPERIENCES with ASSESSMENTS outcomes
+- [ ] recommend student specific EXPERIENCES to maximize ASSESSMENTS performance
