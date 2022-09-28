@@ -4,21 +4,23 @@
 
 it has ...
 - [ ] users called STUDENTS
-- [ ] date-times when STUDENTS experiece LEARNING-ITEMS, called EXPERINECES
+- [ ] date-time records when STUDENTS experiece LEARNING-ITEMS, called EXPERIENCES
 - [ ] associated facts called LEARNING-ITEMS (think n-sided flashcards)
-  - [ ] LearningItems examples:
+  - [ ] LEARNING-ITEMS examples:
   - [ ] 心 - xīn - 'zh/xin1.mp3' - heart
   - [ ] Battle of Hastings - 14 October 1066 - East Sussex
   - [ ] scala.collection.immutable.TreeMap - An immutable SortedMap whose values are stored in a red-black tree.
-- [ ] EXPERINECES, a date-time STUDENTS experience an LEARNING-ITEMS
+- [ ] EXPERIENCES, a date-time STUDENTS experience a LEARNING-ITEMS
 - [ ] ASSESSMENTS, a date-time & 0-100 score when STUDENTS see ASSESSMENT-ITEMS
-- [ ] ASSESSMENT-ITEMS reveal 1 side of a LEARNING-ITEMS, requesting others
+- [ ] ASSESSMENT-ITEMS reveal 1 side of LEARNING-ITEMS, requesting others via input
 - [ ] CLASSES, Students with LEARNING-ITEMS in common
 - [ ] MODULES, external apps with access to native functions and data
 - [ ] COINS, points associated with STUDENTS and their EXPERIENCES and ASSESSMENTS
 
 it can ...
 - [ ] authenticate Students via password
-- [ ] expose native functions via gRPC
+- [ ] expose native functions and data via gRPC
+- [ ] expose native data read/write via GraphQL
+- [ ] expose native data read/write via REST APIs
 - [ ] transfer COINS between STUDENTS
-- [ ] credit STUDENTS with COINS
+- [ ] credit STUDENTS with COINS for EXPERIENCES and ASSESSMENTS
