@@ -6,7 +6,7 @@ it has ...
 - [ ] users called STUDENTS
 - [ ] date-time records when STUDENTS experiece LEARNING-ITEMS, called EXPERIENCES
 - [ ] associated facts called LEARNING-ITEMS (think n-sided flashcards)
-  - [ ] LEARNING-ITEMS examples:
+- [ ] LEARNING-ITEMS examples:
   - [ ] 心 - xīn - 'zh/xin1.mp3' - heart
   - [ ] Battle of Hastings - 14 October 1066 - East Sussex
   - [ ] scala.collection.immutable.TreeMap - An immutable SortedMap whose values are stored in a red-black tree.
